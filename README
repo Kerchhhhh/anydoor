@@ -1,16 +1,16 @@
-# anydoor
+# anydoorr
 
 ```
-npm i -g anydoor # 安装
+npm i -g anydoorr # 安装
 ```
 ```
 # 使用方法
-anydoor # 把当前文件夹作为静态资源服务器根目录
+anydoorr # 把当前文件夹作为静态资源服务器根目录
 
-anydoor -p 8000 # 设置端口号
+anydoorr -p 8000 # 设置端口号
 
-anydoor -h localhost # 设置host为localhost
+anydoorr -h localhost # 设置host为localhost
 
-anydoor -d /usr # 设置根目录为 /usr
+anydoorr -d /usr # 设置根目录为 /usr
 
 ```

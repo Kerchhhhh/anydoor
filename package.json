@@ -20,8 +20,10 @@
   "homepage": "https://github.com/Kerchhhhh/anydoor#readme",
   "dependencies": {
     "curl": "^0.1.4",
-    "handlebars": "^4.7.7",
-    "yargs": "^17.2.1"
+    "handlebars": "^4.7.7"
   },
-  "description": ""
+  "description": "```\r npm i -g anydoorr # 安装\r ```\r ```\r # 使用方法\r anydoorr # 把当前文件夹作为静态资源服务器根目录",
+  "devDependencies": {
+    "yargs": "^17.2.1"
+  }
 }
